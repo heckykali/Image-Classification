@@ -1,0 +1,16 @@
+.pkl filter=lfs diff=lfs merge=lfs -text
+assets/demo.gif filter=lfs diff=lfs merge=lfs -text
+ml/artifacts/figures/class_distribution.png filter=lfs diff=lfs merge=lfs -text
+ml/artifacts/figures/cnn/confusion_matrix.png filter=lfs diff=lfs merge=lfs -text
+ml/artifacts/figures/cnn/per_class_f1.png filter=lfs diff=lfs merge=lfs -text
+ml/artifacts/figures/cnn/training_curves.png filter=lfs diff=lfs merge=lfs -text
+ml/artifacts/figures/comparison/comparison_radar.png filter=lfs diff=lfs merge=lfs -text
+ml/artifacts/figures/mlp/confusion_matrix.png filter=lfs diff=lfs merge=lfs -text
+ml/artifacts/figures/mlp/per_class_f1.png filter=lfs diff=lfs merge=lfs -text
+ml/artifacts/figures/mlp/training_curves.png filter=lfs diff=lfs merge=lfs -text
+ml/artifacts/figures/resnet/confusion_matrix.png filter=lfs diff=lfs merge=lfs -text
+ml/artifacts/figures/resnet/per_class_f1.png filter=lfs diff=lfs merge=lfs -text
+ml/artifacts/figures/sample_images.png filter=lfs diff=lfs merge=lfs -text
+ml/artifacts/figures/vit/confusion_matrix.png filter=lfs diff=lfs merge=lfs -text
+ml/artifacts/figures/vit/per_class_f1.png filter=lfs diff=lfs merge=lfs -text
+models/vit_best.pth filter=lfs diff=lfs merge=lfs -text
