@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "email": "patelvraj2708@gmail.com",
+      "hashed_password": "$2b$12$zFCQSyJZxUI9hbfHNDixwO59U7NiqNOwrcVBmhTfI4vBoZaEf09DS",
+      "role": "admin",
+      "created_at": "2024-01-01T00:00:00",
+      "disabled": false
+    },
+    {
+      "username": "vrajpatel",
+      "email": "hecky.kali@gmail.com",
+      "hashed_password": "$2b$12$90fhVawSczEf3qVPRJo8Q.jPisz.DQNAuc6iQZk3q7bUT9/IL0dBy",
+      "role": "user",
+      "created_at": "2026-07-22T08:08:57.539102+00:00",
+      "disabled": false
+    },
+    {
+      "username": "vraj",
+      "email": "vrajkumar2708@gmail.com",
+      "hashed_password": "$2b$12$VHdeU58VeReAYCcUQIE4hOxyUNf0pe4DvdCBWOu46LMgt64zs4CVa",
+      "role": "user",
+      "created_at": "2026-07-22T09:04:55.977218+00:00",
+      "disabled": false
+    },
+    {
+      "username": "Nency",
+      "email": "nencypatel111204@gmail.com",
+      "hashed_password": "$2b$12$3/fEaYLXfGMQ5.Gotj6mIe8sGzBWZhW63D0C7UmnJCiMcgt8Zw1S2",
+      "role": "user",
+      "created_at": "2026-07-22T09:58:16.448530+00:00",
+      "disabled": false
+    },
+    {
+      "username": "prarthna",
+      "email": "prarthnadevashrayee@gmail.com",
+      "hashed_password": "$2b$12$mp2ot7AevcdV8YTqitmtFeeL5wSiL/znIIBYqj5pfKHPrxaaf9crS",
+      "role": "user",
+      "created_at": "2026-07-22T10:05:31.126410+00:00",
+      "disabled": false
+    },
+    {
+      "username": "dhruvi",
+      "email": "dhruviparmar070@gmail.com",
+      "hashed_password": "$2b$12$4tPQkfOb9B435OKOGfr3n.36DtN2ZruLrLnvnW0fnNybs/vtuRWR2",
+      "role": "user",
+      "created_at": "2026-07-22T10:27:20.537199+00:00",
+      "disabled": false
+    }
+  ]
+}
