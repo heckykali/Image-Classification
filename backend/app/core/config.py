@@ -50,7 +50,7 @@ class Settings(BaseSettings):
     smtp_port: int = int(os.environ.get("SMTP_PORT", "587"))
     smtp_username: str = os.environ.get("SMTP_USERNAME", "vrajkumar2708@gmail.com")
     smtp_password: str = os.environ.get("SMTP_PASSWORD", "cisj tqyl ywmk ceaj")
-    smtp_from_email: str = os.environ.get("SMTP_FROM_EMAIL", "noreply@gmail.com")
+    smtp_from_email: str = os.environ.get("SMTP_FROM_EMAIL", "noreply@imgclsify.com")
     smtp_use_tls: bool = os.environ.get("SMTP_USE_TLS", "true").lower() == "true"
 
     # OTP
