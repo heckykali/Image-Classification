@@ -4,6 +4,7 @@ Cattle Breed Classifier API.
 """
 
 import sys
+import uvicorn
 from pathlib import Path
 from contextlib import asynccontextmanager
 

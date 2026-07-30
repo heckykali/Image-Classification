@@ -41,7 +41,7 @@ class Settings(BaseSettings):
     max_image_size_mb: float = 10.0
 
     # Server
-    host: str = "120.0.0.1"
+    host: str = "127.0.0.1"
     port: int = 8000
     cors_origins: list[str] = ["*"]
 
