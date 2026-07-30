@@ -41,7 +41,7 @@ class Settings(BaseSettings):
     max_image_size_mb: float = 10.0
 
     # Server
-    host: str = "https://image-classification-by-vraj-2.streamlit.app"
+    host: str = "https://image-classification-ai.streamlit.app"
     port: int = 8000
     cors_origins: list[str] = ["*"]
 
