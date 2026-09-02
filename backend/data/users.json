@@ -3,7 +3,7 @@
     {
       "username": "admin",
       "email": "patelvraj2708@gmail.com",
-      "hashed_password": "$2b$12$zFCQSyJZxUI9hbfHNDixwO59U7NiqNOwrcVBmhTfI4vBoZaEf09DS",
+      "hashed_password": "$2b$12$fiV8osBkyz9dIL8U8iEagupMviTn2TiCJue1gDjmxuD8GgPaYSkfm",
       "role": "admin",
       "created_at": "2024-01-01T00:00:00",
       "disabled": false
@@ -46,6 +46,22 @@
       "hashed_password": "$2b$12$4tPQkfOb9B435OKOGfr3n.36DtN2ZruLrLnvnW0fnNybs/vtuRWR2",
       "role": "user",
       "created_at": "2026-07-22T10:27:20.537199+00:00",
+      "disabled": false
+    },
+    {
+      "username": "Raj Patel",
+      "email": "patelkumar2708@gmail.com",
+      "hashed_password": "$2b$12$JLm9R3DY4E1jsY0zf6pf..gWGIbdnSp3uLibY2XCFyYX4M/7XIwrq",
+      "role": "user",
+      "created_at": "2026-09-01T14:29:01.344767+00:00",
+      "disabled": false
+    },
+    {
+      "username": "aminshriya",
+      "email": "aminshriya1408@gmail.com",
+      "hashed_password": "$2b$12$e.tN2uyCQJzJb3C8BPz7iub9TavOHanDBo6wIGOUO.QKUeUByBcqe",
+      "role": "user",
+      "created_at": "2026-09-02T05:29:53.194615+00:00",
       "disabled": false
     }
   ]
